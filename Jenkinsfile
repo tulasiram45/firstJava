@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                sh 'python /root/helloworld.py'
+                sh 'python /tmp/helloworld.py'
             }
         }
     }
