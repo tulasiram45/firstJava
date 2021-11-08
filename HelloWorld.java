@@ -4,6 +4,6 @@
  */
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("Hello B Project");
+    System.out.println("Hello New Project B");
   }
 }
